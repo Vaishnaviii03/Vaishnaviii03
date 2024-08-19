@@ -1,8 +1,5 @@
 # 👩‍💻 Vaishnavi Pandey | Data Scientist & Machine Learning Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaishnaviii03&color=blueviolet&style=flat-square) ![LinkedIn](https://img.shields.io/badge/LinkedIn-vaishnavi--pandey-blue?style=flat-square&logo=linkedin) ![GitHub](https://img.shields.io/badge/GitHub-Vaishnaviii03-lightgrey?style=flat-square&logo=github)
-
-
 ## 🌟 About Me
 
 Hello! I'm **Vaishnavi Pandey**, a final year B.Tech student in Information Technology at Deen Dayal Upadhyaya Gorakhpur University. I have a strong passion for **Data Science** and **Machine Learning** and have been honing my skills through various projects and competitions.
