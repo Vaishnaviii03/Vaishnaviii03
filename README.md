@@ -1,6 +1,7 @@
 # 👩‍💻 Vaishnavi Pandey | Data Scientist & Machine Learning Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi-pandey&color=blueviolet&style=flat-square) ![LinkedIn](https://img.shields.io/badge/LinkedIn-vaishnavi--pandey-blue?style=flat-square&logo=linkedin) ![GitHub](https://img.shields.io/badge/GitHub-vaishnavi--pandey-lightgrey?style=flat-square&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Vaishnaviii03&color=blueviolet&style=flat-square) ![LinkedIn](https://img.shields.io/badge/LinkedIn-vaishnavi--pandey-blue?style=flat-square&logo=linkedin) ![GitHub](https://img.shields.io/badge/GitHub-Vaishnaviii03-lightgrey?style=flat-square&logo=github)
+
 
 ## 🌟 About Me
 
