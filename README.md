@@ -7,7 +7,8 @@
 ---
 
 ### 🌟 About Me
-Final year B.Tech IT student passionate about **Data Science, Machine Learning, NLP**, and **Full Stack Development**. I build impactful projects leveraging Python, Flask, React, and modern machine learning techniques to solve real-world challenges.
+Final year B.Tech IT student passionate about **Data Science, Machine Learning, NLP**, and **Full Stack Development**.  
+I build impactful projects leveraging Python, Flask, React, Node.js, and modern machine learning techniques to solve real-world challenges.
 
 ---
 
@@ -15,10 +16,10 @@ Final year B.Tech IT student passionate about **Data Science, Machine Learning, 
 
 | Category       | Technologies & Tools                                                                                              |
 |----------------|------------------------------------------------------------------------------------------------------------------|
-| **Frontend**   | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)                                     |
-| **Backend**    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)                                    |
-| **Databases**  | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)                                                   |
-| **Machine Learning & Data** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-ff3e00?logo=python&logoColor=white)                                                                                                 |
+| **Frontend**   | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) |
+| **Backend**    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| **Databases**  | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Machine Learning & Data** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-ff3e00?logo=python&logoColor=white) |
 | **API & Deployment** | ![REST API](https://img.shields.io/badge/-REST_API-4A90E2) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/-Render-0076CE?logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 | **Tools & IDEs** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=googlecolab&logoColor=white) |
 
@@ -26,12 +27,12 @@ Final year B.Tech IT student passionate about **Data Science, Machine Learning, 
 
 ### 🚀 Notable Projects
 
-- **GrowGuide:** A comprehensive cultivation tracking app with AI-powered recommendations, expert community support, and tools for monitoring every aspect of plant growth. Leveraged React frontend and intelligent backend systems for user-friendly precision growing.
-- **Snaticket:** A local train ticketing system project enabling online booking and ticket receipt generation with secure user login, admin controls, and multi-class ticket options to simplify commuter access.
-- **YumCraft:** Recipe recommendation system scraping 1K+ recipes using BeautifulSoup, powered by NLP content-based filtering with a React frontend and Flask backend deployed on Render and Netlify.
-- **FlickPick:** AI-powered hybrid movie recommendation engine combining collaborative filtering (SVD) and content-based filtering with React UI and Flask REST APIs, enhancing user engagement with dynamic UI features.
+- **GrowGuide:** Comprehensive cultivation tracking app featuring AI-powered recommendations, expert community support, and tools for monitoring plant growth stages. Built with React frontend and intelligent backend systems for precision growing.
+- **Snaticket:** Local train ticketing system enabling online booking, secure user login, admin panel, and multi-class ticket options to streamline commuter access.
+- **YumCraft:** Recipe recommendation engine scraping 1,000+ recipes using BeautifulSoup; powered by NLP content-based filtering. Deployed React frontend and Flask backend on Render and Netlify.
+- **FlickPick:** AI-powered hybrid movie recommendation engine combining collaborative filtering (SVD) and content-based filtering with React UI and Flask REST APIs, featuring dynamic UI and genre filters.
 
-Explore the full portfolio on my [GitHub](https://github.com/Vaishnaviii03).
+Explore more at my [GitHub](https://github.com/Vaishnaviii03).
 
 ---
 
@@ -39,14 +40,15 @@ Explore the full portfolio on my [GitHub](https://github.com/Vaishnaviii03).
 
 - 1st Rank in IT Branch till 8th semester
 - NPTEL Top 1% in Cyber Security & Privacy (IIT Madras)
-- Solved 500+ DSA problems across various platforms
+- NPTEL Top 5% in Cloud Computing (IIT Kharagpur)
+- Solved 500+ DSA problems on various platforms
 
 ---
 
 ### 📫 Connect with Me
 
-Open to collaborations, internships, and full-time opportunities in **Data Science, Machine Learning, and Full Stack Development**.  
-Reach me via [LinkedIn](https://www.linkedin.com/in/vaishnavi-pandey-2704a5271/) or email at vaishnavipandey7979@gmail.com
+Open to collaborations, internships, and full-time roles in **Data Science, Machine Learning, and Full Stack Development**.  
+Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-pandey-2704a5271/) or via email at vaishnavipandey7979@gmail.com.
 
 ---
 
