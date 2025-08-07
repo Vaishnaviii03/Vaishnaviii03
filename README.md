@@ -7,8 +7,7 @@
 ---
 
 ### 🌟 About Me
-Final year B.Tech IT student passionate about **Data Science, Machine Learning, NLP**, and **Full Stack Development**.  
-I build impactful projects leveraging Python, Flask, React, Node.js, and modern machine learning techniques to solve real-world challenges.
+I am a passionate and skilled graduate in Information Technology with a strong focus on Data Science, Machine Learning, NLP, and Full Stack Development. I have successfully completed impactful projects by leveraging Python, Flask, React, Node.js, and modern machine learning techniques to solve real-world challenges. Eager to contribute and grow in dynamic teams, I enjoy building intelligent models and robust full stack applications that drive innovation
 
 ---
 
@@ -38,7 +37,7 @@ Explore more at my [GitHub](https://github.com/Vaishnaviii03).
 
 ### 🏆 Achievements
 
-- 1st Rank in IT Branch till 8th semester
+- Branch Topper in Information Technology at DDUGU
 - NPTEL Top 1% in Cyber Security & Privacy (IIT Madras)
 - NPTEL Top 5% in Cloud Computing (IIT Kharagpur)
 - Solved 500+ DSA problems on various platforms
