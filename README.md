@@ -26,8 +26,8 @@ I am a passionate and skilled graduate in Information Technology with a strong f
 
 ### 🚀 Notable Projects
 
-- **GrowGuide:** Comprehensive cultivation tracking app featuring AI-powered recommendations, expert community support, and tools for monitoring plant growth stages. Built with React frontend and intelligent backend systems for precision growing.
-- **Snaticket:** Local train ticketing system enabling online booking, secure user login, admin panel, and multi-class ticket options to streamline commuter access.
+- **GrowGuide:** GrowGuide is an AI-powered online learning platform built with Next.js that generates personalized tech courses using Gemini. It features user authentication, a dynamic landing page, and plans for interactive, trackable learning experiences.
+- **Snapticket:** An online movie ticket booking platform, like BookMyShow or Paytm Movies, built using React, Tailwind CSS, Clerk for auth, and a custom backend (likely Node.js or similar)
 - **YumCraft:** Recipe recommendation engine scraping 1,000+ recipes using BeautifulSoup; powered by NLP content-based filtering. Deployed React frontend and Flask backend on Render and Netlify.
 - **FlickPick:** AI-powered hybrid movie recommendation engine combining collaborative filtering (SVD) and content-based filtering with React UI and Flask REST APIs, featuring dynamic UI and genre filters.
 
